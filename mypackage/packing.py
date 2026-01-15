@@ -9,4 +9,4 @@ def TESTTEST():
   """
   Helper method to print hello world.
   """
-  print("Goodbye World!")
+  print("HEY World!")
